@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Phosphatase Baseline Classifier
 A baseline classifier for prediction of phosphatase activity.
 
@@ -12,7 +11,4 @@ The code for GP model is adapted from channels (https://github.com/fhalab/channe
 ## File structure
 
 The repository is divided into two self-contained directories containing all the code and inputs for the regression and classification models, respectively. For regression, the GP code is here. The gpmodel module used in classification is cloned from https://github.com/yangkky/gpmodel. The regression code for phosphatase activity is from https://github.com/anaqiafendi/channels.
-=======
-# phosphatase_baseline_classifier
-Baseline model for classification of phosphatase activity
->>>>>>> f4f505d578c96d1e322a8041edd50e5aa4d15504
+
