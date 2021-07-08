@@ -12,8 +12,8 @@ from scipy.linalg import cho_solve
 
 # ML imports
 from sklearn import linear_model
-# from sklearn.cross_validation import train_test_split
-from sklearn.model_selection import LeaveOneOut, train_test_split
+from sklearn.cross_validation import train_test_split
+from sklearn.model_selection import LeaveOneOut
 from sklearn.metrics.pairwise import euclidean_distances
 from scipy.spatial import distance
 from scipy import optimize, linalg

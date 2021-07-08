@@ -1,0 +1,3 @@
+[submodule "classification/code/gpmodel"]
+	path = classification/code/gpmodel
+	url = git@github.com:yangkky/gpmodel.git
